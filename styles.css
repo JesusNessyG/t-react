@@ -268,13 +268,12 @@ FEATURES
 #features .section__para {
  max-width: 576px;
  text-align: center;
+ margin: 0 auto;
 }
 .section__para {
     font-size: 18px;
     font-weight: 500;
     color: #7c8ba1;
     line-height: 1.625;
-    
-
 }
 
